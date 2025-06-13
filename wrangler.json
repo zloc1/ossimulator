@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "ossimulator",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7c87ef8a-9162-4a9d-9390-5d10c5f2458d",
+      "database_name": "ossimulator"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
